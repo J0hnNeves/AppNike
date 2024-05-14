@@ -1,0 +1,68 @@
+
+ion-content{
+  --background: rgb(17,153,142);
+  --background: linear-gradient(90deg, rgba(17,153,142,1) 0%, rgba(56,239,125,1) 100%);
+  }
+  
+ .container h1 {
+  position:absolute;
+  width: 322px;
+  height: 100px;
+  top: 463px;
+  left: 27px;
+  gap: 0px;
+  opacity: 0px;
+  color: #144273;
+}
+
+.container1 h2 {
+  position:absolute;
+  width: 140px;
+  height: 50px;
+  top: 564px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  color:#FFFFFF
+}
+  
+.container2 h3{
+  position:absolute;
+  width: 368px;
+  height: 116px;
+  top: 629px;
+  left: 28px;
+  gap: 0px;
+  opacity: 0px;
+  color: #FFFFFF;
+
+
+}
+
+
+
+.button ion-button{
+  --background: #f2c94c;
+  font-size: 24px;
+  color: #FFFFFF;
+  position:absolute;
+  width: Hug (240px)px;
+  height: Hug (81px)px;
+  top: 785px;
+  left: 94px;
+  padding: 24px 0px 0px 0px;
+  gap: 12px;
+  opacity: 0px;
+  
+}
+
+.tenis {
+  position: absolute;
+  width: 404.61px;
+  height: 253.38px;
+  top: 134.16px;
+  left: -14.64px;
+  gap: 0px;
+  opacity: 0px;
+  rotate: (-19.6deg);
+}
